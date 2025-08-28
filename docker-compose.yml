@@ -1,6 +1,6 @@
 version: '3'
 services:
-  file-browser-2:
+  file-browser:
     image: filebrowser/filebrowser
     container_name: file-browser
     user: '0:0'
